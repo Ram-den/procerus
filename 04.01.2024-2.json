@@ -1,0 +1,26 @@
+{
+    "name": "Edward Brady",
+    "age": 53,
+    "address": {
+        "street": "Walters Estates",
+        "city": "South Sarah",
+        "state": "Massachusetts",
+        "zip": "33663"
+    },
+    "contact": {
+        "phone": "811.330.4887",
+        "servicePhone": "800123715"
+    },
+    "birthday": "1972-15-12",
+    "ip": "95.15.89.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare close because. Old fly rich according.\nHave government discussion production tree source. Simple long list season.",
+        "bio": "Cause pull age. Public firm prepare chair.\nBring him read detail answer.\nCover American political hot learn very nothing. Rate several too result wide election kind."
+    },
+    "apiKey": "9d65cd9b12094f234f8b52ad06f77d1b4d7758a16654f8527dfc9d810ce4234d",
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
