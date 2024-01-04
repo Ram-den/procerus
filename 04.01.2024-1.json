@@ -1,0 +1,26 @@
+{
+    "name": "Tiffany Christensen",
+    "age": 32,
+    "address": {
+        "street": "Dorothy Ford",
+        "city": "North Amy",
+        "state": "Idaho",
+        "zip": "91268"
+    },
+    "contact": {
+        "phone": "+1-670-928-1360x9392",
+        "servicePhone": "800201313"
+    },
+    "birthday": "1993-27-03",
+    "ip": "15.61.54.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Plant next fight age simple theory. Director value drop degree father. Especially respond goal section individual picture.",
+        "bio": "Option number situation well key. Behind exactly PM prevent. Worker also stand sister imagine want strong. Responsibility attorney activity career really knowledge."
+    },
+    "apiKey": "3cd502848dccef9e5e4027ae52fb93f2186858a66195847d7a36a4b73fdb8b27",
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
