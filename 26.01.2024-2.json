@@ -1,0 +1,26 @@
+{
+    "name": "Holly Espinoza",
+    "age": 70,
+    "address": {
+        "street": "Amber Run",
+        "city": "North Kenneth",
+        "state": "Iowa",
+        "zip": "44976"
+    },
+    "contact": {
+        "phone": "(466)470-5173x5918",
+        "servicePhone": "800323057"
+    },
+    "birthday": "1955-17-03",
+    "ip": "26.151.197.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Benefit fire entire policy. Hard those idea go suggest eight main society.\nMemory art consider customer. Rule product onto.\nTree reveal yourself book poor. Admit business professional customer.",
+        "bio": "Run within admit teach or consider pay want. Believe animal my force in financial. Election federal the what history sea."
+    },
+    "apiKey": "ea433a9e4bdb106b54107e58c87c5450e2fc1c0ee1793ba1e3cc1df1fec5bcf6",
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
