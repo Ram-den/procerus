@@ -1,0 +1,26 @@
+{
+    "name": "Joel Coleman",
+    "age": 35,
+    "address": {
+        "street": "Neal Grove",
+        "city": "Joshuahaven",
+        "state": "Nebraska",
+        "zip": "75272"
+    },
+    "contact": {
+        "phone": "431-413-6862x206",
+        "servicePhone": "800150138"
+    },
+    "birthday": "1990-30-08",
+    "ip": "7.108.218.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Another between worker never article kid hospital force. Eight station explain attack page night.\nLand from decision number. Share record common third in suffer bring.",
+        "bio": "Real worker oil actually air window. Describe card win field letter. Baby I necessary live."
+    },
+    "apiKey": "e4cd221c5a8d8cd84950618b8e56600b455de5cadbc7caca6914b50384da2d06",
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
