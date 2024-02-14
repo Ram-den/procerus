@@ -1,0 +1,26 @@
+{
+    "name": "Gregory Young",
+    "age": 32,
+    "address": {
+        "street": "Madison Falls",
+        "city": "North Pamela",
+        "state": "Nebraska",
+        "zip": "82563"
+    },
+    "contact": {
+        "phone": "257-419-3078x830",
+        "servicePhone": "800464055"
+    },
+    "birthday": "1993-18-11",
+    "ip": "158.170.36.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement view including let discuss whether age. As scientist western media. Majority law main guy. Machine third ball end fear various account simple.",
+        "bio": "Project many unit later. Yourself security care form forward trouble.\nAlthough religious price wind collection prevent theory. Pick brother rule increase. Open thing ask sign term onto."
+    },
+    "apiKey": "6a71ecf307150b90b0ebf0f1277f1c9877aed8685252a5a720ff32551f3b7eb1",
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
