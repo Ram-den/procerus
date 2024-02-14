@@ -1,0 +1,26 @@
+{
+    "name": "Jasmine Ramirez",
+    "age": 88,
+    "address": {
+        "street": "Morrison Station",
+        "city": "New Richard",
+        "state": "Minnesota",
+        "zip": "03931"
+    },
+    "contact": {
+        "phone": "915.661.2530x536",
+        "servicePhone": "800739954"
+    },
+    "birthday": "1937-19-08",
+    "ip": "169.144.170.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Relate answer mission spring owner matter.\nAuthor hand force teacher. Forward maybe positive list condition others inside.\nFact decision able war technology seek attorney.",
+        "bio": "Plant throughout party reach owner purpose white. Easy tonight attorney theory sea.\nService during lay drive identify. People wide fight east common. Allow rise knowledge school."
+    },
+    "apiKey": "4547ef1131d3c438f3568031f986ae5ea98fb4401cbe2efdb8f1476f9791afd2",
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
