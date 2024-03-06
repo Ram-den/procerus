@@ -1,0 +1,26 @@
+{
+    "name": "Jonathan Reyes",
+    "age": 66,
+    "address": {
+        "street": "Sanford Trace",
+        "city": "South Thomas",
+        "state": "Arizona",
+        "zip": "96144"
+    },
+    "contact": {
+        "phone": "4456636626",
+        "servicePhone": "800984520"
+    },
+    "birthday": "1959-26-02",
+    "ip": "98.203.194.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Know song quickly lead trouble fish. Half how see traditional against page sign better.\nYard total may six in. Your rule all building tax phone. Personal most eye generation perform positive bar.",
+        "bio": "Could suggest position notice international economic. Until tend not military important.\nScene a space it indicate course. Poor away indicate prevent clearly."
+    },
+    "apiKey": "e69dd2ccefc0b7b2b747e549495c6cf04f1e7db7941c8b30ae42b0c7462d56ff",
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
