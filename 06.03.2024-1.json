@@ -1,0 +1,26 @@
+{
+    "name": "Oscar Simmons",
+    "age": 86,
+    "address": {
+        "street": "Angela Ports",
+        "city": "East Chris",
+        "state": "Alabama",
+        "zip": "95686"
+    },
+    "contact": {
+        "phone": "526.495.0108",
+        "servicePhone": "800576786"
+    },
+    "birthday": "1939-04-02",
+    "ip": "151.81.234.188",
+    "foo": "bar",
+    "profile": {
+        "about": "For hotel half girl statement kid until. Make floor American something. Generation certain picture necessary from spring.\nFinish film letter will budget. Quite allow according herself.",
+        "bio": "Who husband same thousand hotel. Again to kitchen remain skin.\nHome own ever lay already behind vote produce. Man old campaign wide child nearly. Project above short."
+    },
+    "apiKey": "7884a93a45735492f1d5b796d39e6d818e3f1e74ef519aa2258d272d4a5b2deb",
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
