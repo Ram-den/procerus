@@ -1,0 +1,26 @@
+{
+    "name": "Richard Ware",
+    "age": 73,
+    "address": {
+        "street": "Blair Flats",
+        "city": "New Travisland",
+        "state": "Indiana",
+        "zip": "88132"
+    },
+    "contact": {
+        "phone": "736.219.6576",
+        "servicePhone": "800816619"
+    },
+    "birthday": "1952-11-02",
+    "ip": "219.97.131.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Old evidence general agreement present environment. North line apply pay animal theory.\nChair see light air. Exist if report hundred against. Consumer window no property activity economic whatever.",
+        "bio": "Claim left drive item stand professional tend when. Production name own buy. To student usually feeling of officer."
+    },
+    "apiKey": "a79a6c0c1ff5810afb806023ed2972f0fd70e3cab504f486889a84416765f2aa",
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
