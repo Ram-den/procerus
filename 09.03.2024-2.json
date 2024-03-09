@@ -1,0 +1,26 @@
+{
+    "name": "William Robinson",
+    "age": 110,
+    "address": {
+        "street": "Pineda Path",
+        "city": "Ericland",
+        "state": "Nebraska",
+        "zip": "45880"
+    },
+    "contact": {
+        "phone": "(902)727-1773x232",
+        "servicePhone": "800388803"
+    },
+    "birthday": "1915-15-01",
+    "ip": "34.250.172.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Couple campaign win well not rich candidate. Contain else safe party future though.",
+        "bio": "Produce price sign. Everybody environment wait hospital few compare. Two take sit share by difficult."
+    },
+    "apiKey": "f4350f74bbac21122df767b174360cf24cb8f1c6d53f6b9132ef94bbeced3306",
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
