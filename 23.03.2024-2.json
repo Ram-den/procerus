@@ -1,0 +1,26 @@
+{
+    "name": "Heather Flores",
+    "age": 74,
+    "address": {
+        "street": "Moore Islands",
+        "city": "Nguyenland",
+        "state": "New Hampshire",
+        "zip": "37382"
+    },
+    "contact": {
+        "phone": "(268)455-4507x8925",
+        "servicePhone": "800656815"
+    },
+    "birthday": "1951-30-04",
+    "ip": "89.185.252.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Use nature likely require prove drop. He memory other bank vote half method.\nPosition ok picture girl. Role property maybe cold list environmental.",
+        "bio": "Ask she can boy. Weight what into herself.\nArm for citizen role born mouth argue.\nWith rich buy home compare growth. Major rise truth such meeting skin. Group sister court sing together natural TV."
+    },
+    "apiKey": "fae3738d262719e64deb1e50be9d8f3ebff5b5e1634f1f5b8207b10d91551857",
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
