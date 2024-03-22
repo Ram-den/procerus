@@ -1,0 +1,26 @@
+{
+    "name": "Gary Velazquez",
+    "age": 14,
+    "address": {
+        "street": "Smith Meadows",
+        "city": "West Jordan",
+        "state": "California",
+        "zip": "22248"
+    },
+    "contact": {
+        "phone": "616.687.1163x0070",
+        "servicePhone": "800407145"
+    },
+    "birthday": "2011-12-10",
+    "ip": "78.175.159.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Better admit well including recently tend.\nLanguage its exist doctor. Art research certainly perform light cause. Ball fear magazine high with many western.",
+        "bio": "Practice again head nice. Without this author goal tend. House power instead.\nGroup learn policy. Change factor none test early. Pay center recently mouth kind within beat."
+    },
+    "apiKey": "5c1e3f79ee88191cb0879b4a574d3469c3fd6d2e629ea42bc471bbed8f5c5d58",
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
