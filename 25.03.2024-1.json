@@ -1,0 +1,26 @@
+{
+    "name": "Allison Campbell",
+    "age": 13,
+    "address": {
+        "street": "Norman Harbors",
+        "city": "South Tracyborough",
+        "state": "Oregon",
+        "zip": "30367"
+    },
+    "contact": {
+        "phone": "714.560.9479",
+        "servicePhone": "800370252"
+    },
+    "birthday": "2012-29-04",
+    "ip": "39.252.165.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Best history happy director than. Floor cover impact someone two.\nFast respond raise dream group organization capital. Receive industry off design.",
+        "bio": "Station along check ahead. Hope writer quite result claim wear at product.\nTonight relate two spend glass. Note force weight surface leg firm. Resource general require be."
+    },
+    "apiKey": "204b30b984edc0c90cfd6a55c253d8b0f8717057b2c515c36cd6a304a0583a12",
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
