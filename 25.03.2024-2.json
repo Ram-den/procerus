@@ -1,0 +1,26 @@
+{
+    "name": "Kevin Robinson",
+    "age": 37,
+    "address": {
+        "street": "Cooper Valleys",
+        "city": "Owenland",
+        "state": "Iowa",
+        "zip": "32197"
+    },
+    "contact": {
+        "phone": "001-967-530-8926",
+        "servicePhone": "800296475"
+    },
+    "birthday": "1988-31-05",
+    "ip": "103.237.203.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Order without source morning. Station else child government. How top recently.\nAlone respond care century center point concern.",
+        "bio": "Available himself various or later care. Scientist claim small.\nWork last our hour. Center ok financial present town measure. Power more course blue street image."
+    },
+    "apiKey": "5f1b46beb17938377ff5bc605fe6d6793048fa112bc420d78f187d6abfb800ab",
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
