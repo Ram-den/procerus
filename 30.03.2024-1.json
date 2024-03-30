@@ -1,0 +1,26 @@
+{
+    "name": "Amber Hernandez",
+    "age": 18,
+    "address": {
+        "street": "Yolanda Manors",
+        "city": "East Jason",
+        "state": "New Mexico",
+        "zip": "37721"
+    },
+    "contact": {
+        "phone": "3816669093",
+        "servicePhone": "800218739"
+    },
+    "birthday": "2007-14-08",
+    "ip": "85.182.107.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Suggest fund trade job air enjoy. Across heart executive.\nWin above lot marriage. Store dog less defense.",
+        "bio": "Market sport list wall more run. Education which less role.\nReally attack party. Game beat month conference. Scene radio near defense young day drop story."
+    },
+    "apiKey": "587b56c7b8c7b17a47cae13c7cc8db787e9065b6c34b7fc5ac615057955464ad",
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
