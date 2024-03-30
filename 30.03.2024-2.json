@@ -1,0 +1,26 @@
+{
+    "name": "Faith Alvarez",
+    "age": 10,
+    "address": {
+        "street": "Daniel Spring",
+        "city": "Jackland",
+        "state": "Michigan",
+        "zip": "08835"
+    },
+    "contact": {
+        "phone": "+1-797-305-7717x501",
+        "servicePhone": "800598611"
+    },
+    "birthday": "2015-26-08",
+    "ip": "59.106.140.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly to drug. Loss third production store local agent.",
+        "bio": "Along magazine stop training whole. Get owner song tonight best kitchen. Tonight feel wish me operation nice."
+    },
+    "apiKey": "8529f6cfdedcd7c817e7c82eadd834574ba7bd94466360ab61c2f4aceda6602d",
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
