@@ -1,0 +1,26 @@
+{
+    "name": "Brian Mcgrath",
+    "age": 110,
+    "address": {
+        "street": "Richard Prairie",
+        "city": "New Michaelmouth",
+        "state": "Wisconsin",
+        "zip": "48478"
+    },
+    "contact": {
+        "phone": "001-681-845-3178x256",
+        "servicePhone": "800610372"
+    },
+    "birthday": "1915-07-09",
+    "ip": "156.162.77.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Draw form measure woman political. Simple man best research Mrs want fear. In standard customer project former growth.\nTeacher us serious ago. Them front hair common drive.",
+        "bio": "Give contain will teach community myself. Lot provide activity job community country.\nBeyond someone remain. Big do goal debate.\nMaybe safe again. Begin sell computer single choice."
+    },
+    "apiKey": "770e090256c30440390202374f4630512b9ceabe67d381d5171403eb09100fde",
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
