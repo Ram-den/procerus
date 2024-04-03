@@ -1,0 +1,26 @@
+{
+    "name": "Glenda Rodriguez",
+    "age": 61,
+    "address": {
+        "street": "Price Squares",
+        "city": "Christianland",
+        "state": "Utah",
+        "zip": "32615"
+    },
+    "contact": {
+        "phone": "001-568-500-4004x10269",
+        "servicePhone": "800344250"
+    },
+    "birthday": "1964-19-03",
+    "ip": "116.192.70.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Develop wall language small draw. Response walk dark center. Environmental situation method herself time visit.",
+        "bio": "Door pass firm most.\nPolitics bit trial store.\nCup return measure organization half. Federal tough population rate of pretty popular. Figure so decision soldier. Each suffer series our."
+    },
+    "apiKey": "cc27b5597fef89f2d6ad6b8a7226305bae3fe845b072869fdb4df07e2088dc85",
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
