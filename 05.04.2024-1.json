@@ -1,0 +1,26 @@
+{
+    "name": "David Taylor",
+    "age": 2,
+    "address": {
+        "street": "Samuel Ports",
+        "city": "North Timothyborough",
+        "state": "Nevada",
+        "zip": "21265"
+    },
+    "contact": {
+        "phone": "323.937.8878x0630",
+        "servicePhone": "800289179"
+    },
+    "birthday": "2023-07-01",
+    "ip": "206.173.248.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Together perform city try attack seat. Series contain also security process who.\nSit create first item system. Set reality down political assume teacher. Fact drug dinner have military.",
+        "bio": "Occur score affect situation keep can ask. Size among rate special. Capital down its what get possible edge."
+    },
+    "apiKey": "0fbdc49a265bf2f18593d72ce06cca3b97164ddb5773c006a71c002971852e7a",
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
