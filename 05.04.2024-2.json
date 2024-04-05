@@ -1,0 +1,26 @@
+{
+    "name": "Mary King",
+    "age": 60,
+    "address": {
+        "street": "Kennedy Courts",
+        "city": "Kennethtown",
+        "state": "Virginia",
+        "zip": "76262"
+    },
+    "contact": {
+        "phone": "5414426777",
+        "servicePhone": "800555406"
+    },
+    "birthday": "1965-02-08",
+    "ip": "181.116.67.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Politics movement include skin good. Very nation drug meeting your tough white stock. Fall tax everyone medical maybe might. All knowledge eat leader answer network get.",
+        "bio": "Which benefit fact sit attorney. Set force big whom everyone. Science really rest time.\nOption close simple bill bring. For air born possible him."
+    },
+    "apiKey": "b2d2d51b975392cc41f7b8dea553b1aad723eac5476de8218e627a325635a13e",
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
