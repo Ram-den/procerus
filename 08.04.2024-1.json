@@ -1,0 +1,26 @@
+{
+    "name": "Tracy Farmer",
+    "age": 87,
+    "address": {
+        "street": "Edwards Wells",
+        "city": "West Rachel",
+        "state": "Nebraska",
+        "zip": "61521"
+    },
+    "contact": {
+        "phone": "473-662-7107",
+        "servicePhone": "800033274"
+    },
+    "birthday": "1938-27-08",
+    "ip": "60.154.181.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Page question decide example perform attention. Toward stand but. Financial determine go front trial herself protect run.",
+        "bio": "Hundred same arrive matter interesting wonder work. Represent billion nature require card. Lawyer author increase together."
+    },
+    "apiKey": "b88dca5b779a53c5193668c9f2fecf93d670bb746a04af302312a44b83868274",
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
