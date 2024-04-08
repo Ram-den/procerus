@@ -1,0 +1,26 @@
+{
+    "name": "Claudia King",
+    "age": 88,
+    "address": {
+        "street": "Cassandra Motorway",
+        "city": "Joshuaberg",
+        "state": "Kansas",
+        "zip": "65130"
+    },
+    "contact": {
+        "phone": "732-548-9235",
+        "servicePhone": "800322771"
+    },
+    "birthday": "1937-23-01",
+    "ip": "164.163.185.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave must environmental situation different hand hit. Operation my history key stand. Professor two research bar.",
+        "bio": "Member sport role body get. Surface everyone show black.\nNext firm family happen clearly. Than least deal same economy market environment. Fly realize black. Final itself lay visit reveal."
+    },
+    "apiKey": "4281ccedd11e54d2f1ee8ccd0923a9f3c436dc89b24ffe6d553e77335a05eaf9",
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
