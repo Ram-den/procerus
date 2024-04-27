@@ -1,0 +1,26 @@
+{
+    "name": "Rebecca Stevens",
+    "age": 21,
+    "address": {
+        "street": "Jerome Lakes",
+        "city": "Lisashire",
+        "state": "Vermont",
+        "zip": "59183"
+    },
+    "contact": {
+        "phone": "+1-273-476-7763",
+        "servicePhone": "800375147"
+    },
+    "birthday": "2004-02-07",
+    "ip": "50.152.234.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Fine culture song answer their us in much. Full administration simply design entire tell. Side when trade to game.\nAgain structure though him. Process race I actually simply strong little.",
+        "bio": "Seven live return audience. Total middle reveal although even.\nEnough bill sea modern fire see whose.\nRecently book agreement out allow truth. Store company dog meet food."
+    },
+    "apiKey": "3da95b1f3def2a7956351984c7b07f35309f23f44bdbb3db623e74fa4a637233",
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
