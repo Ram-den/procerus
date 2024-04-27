@@ -1,0 +1,26 @@
+{
+    "name": "Leslie Reese",
+    "age": 66,
+    "address": {
+        "street": "Dylan Creek",
+        "city": "South Christopher",
+        "state": "Maryland",
+        "zip": "50523"
+    },
+    "contact": {
+        "phone": "001-225-236-4371x1897",
+        "servicePhone": "800331640"
+    },
+    "birthday": "1959-04-08",
+    "ip": "53.11.113.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Together moment music drive after foot environment. Food yes final us. Oil and claim computer. Organization bring ability eye local fine material soldier.",
+        "bio": "Public true personal realize case. Place star newspaper rather create reveal."
+    },
+    "apiKey": "f8e5d536915c230bbce7f91bfe92f0707bb0f77f1c57afb71d79494c11e605cb",
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
