@@ -1,0 +1,26 @@
+{
+    "name": "Jonathan Jackson",
+    "age": 30,
+    "address": {
+        "street": "David Corners",
+        "city": "South Bettyhaven",
+        "state": "Mississippi",
+        "zip": "30812"
+    },
+    "contact": {
+        "phone": "(824)314-2374x5581",
+        "servicePhone": "800491379"
+    },
+    "birthday": "1995-05-12",
+    "ip": "100.158.91.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Close own life member institution. Perhaps resource behind true. Right image recognize tell what.",
+        "bio": "Main new official song. Environmental lot travel section shoulder. Some paper stop within.\nAlone cold hit college none. Black produce ten write door even suggest huge."
+    },
+    "apiKey": "fff1cd6754d117e2efbc9e4a84837517fe4e1fcbe8eeff0e9dd780e69ab4a7ce",
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
