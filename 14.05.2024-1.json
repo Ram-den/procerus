@@ -1,0 +1,26 @@
+{
+    "name": "David Mitchell DDS",
+    "age": 115,
+    "address": {
+        "street": "Corey Groves",
+        "city": "Reedton",
+        "state": "Tennessee",
+        "zip": "03867"
+    },
+    "contact": {
+        "phone": "001-919-743-3723x111",
+        "servicePhone": "800237398"
+    },
+    "birthday": "1910-13-12",
+    "ip": "154.223.15.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing day window example development entire. Do future very peace military. Administration discover woman score by civil professional.\nHigh relationship street third. Indeed century what lead share.",
+        "bio": "Town edge energy. Similar international center crime. Success inside civil send set.\nBed stuff cause mind picture.\nInside safe here feel."
+    },
+    "apiKey": "ff9b96d4912dbf4877f385013cd5065b09d85c8625f5f38f8d2b2ad4f40502ad",
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
