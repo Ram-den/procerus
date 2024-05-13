@@ -1,0 +1,26 @@
+{
+    "name": "Sheila Gomez",
+    "age": 25,
+    "address": {
+        "street": "Destiny Valleys",
+        "city": "Whiteton",
+        "state": "Tennessee",
+        "zip": "25088"
+    },
+    "contact": {
+        "phone": "816.566.2799",
+        "servicePhone": "800694315"
+    },
+    "birthday": "2000-14-10",
+    "ip": "8.176.31.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting threat dark wide. Front traditional baby pull tree.\nPlace ten great their. Red heart require among. Keep financial financial finish resource.",
+        "bio": "Onto character fly production lose. Special treatment remain. Worker top hair.\nChoice degree military. Hear thus range oil finish down space."
+    },
+    "apiKey": "2c3ebfcec1d29d3d57f0ef78c84b794af9edabbe85012daa723daa397198540b",
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
