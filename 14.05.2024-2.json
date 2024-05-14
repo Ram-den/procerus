@@ -1,0 +1,26 @@
+{
+    "name": "Angela Rodriguez",
+    "age": 44,
+    "address": {
+        "street": "Dylan Meadow",
+        "city": "Adamsmouth",
+        "state": "North Carolina",
+        "zip": "56633"
+    },
+    "contact": {
+        "phone": "+1-439-743-8198x264",
+        "servicePhone": "800186161"
+    },
+    "birthday": "1981-21-01",
+    "ip": "220.207.22.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience toward again hour. Court college often.\nSubject often great remain market. Same enjoy yes either whom a which project. Expect look reduce boy.",
+        "bio": "Century food brother write indicate pay. Glass compare manager election school two. I there happy eight agreement. International notice cultural scientist sea."
+    },
+    "apiKey": "aa8810e033f5844d20bde84c6ea6ad61b068870593d6f9ae4d8631f4834cc98c",
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
