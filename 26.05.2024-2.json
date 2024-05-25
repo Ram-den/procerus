@@ -1,0 +1,26 @@
+{
+    "name": "Shawn Campbell",
+    "age": 80,
+    "address": {
+        "street": "Brian Squares",
+        "city": "West Jacqueline",
+        "state": "Georgia",
+        "zip": "92810"
+    },
+    "contact": {
+        "phone": "964-779-1517",
+        "servicePhone": "800434382"
+    },
+    "birthday": "1945-09-08",
+    "ip": "170.65.213.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Type risk many hotel bag coach site. Chair onto away organization point.",
+        "bio": "As usually western. Discussion article catch student picture trade.\nFeeling eat appear food lot process. Political whom wind action."
+    },
+    "apiKey": "59754bccff9710b481797359abfd3edff1e2a4de90b2347e6d6c8976c0fb799a",
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
