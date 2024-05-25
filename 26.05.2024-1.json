@@ -1,0 +1,26 @@
+{
+    "name": "Andre Smith",
+    "age": 102,
+    "address": {
+        "street": "Sullivan Place",
+        "city": "East Sarahside",
+        "state": "Idaho",
+        "zip": "18892"
+    },
+    "contact": {
+        "phone": "+1-906-602-0269x012",
+        "servicePhone": "800850285"
+    },
+    "birthday": "1923-05-09",
+    "ip": "6.115.106.199",
+    "foo": "bar",
+    "profile": {
+        "about": "End tree upon another at whose audience four. Interesting edge travel. Window draw each business to they during camera.\nRise figure business think strategy. Even hard course most.",
+        "bio": "Thousand school interesting stay. About role religious serious. Bill style watch miss card machine article."
+    },
+    "apiKey": "c282e9fed7de51b66aa9d7d104e2fdc67f03fa095060dc265f0da147be06e58e",
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
