@@ -1,0 +1,26 @@
+{
+    "name": "Jessica Fuller",
+    "age": 87,
+    "address": {
+        "street": "Austin Mills",
+        "city": "New Ericview",
+        "state": "Alabama",
+        "zip": "80080"
+    },
+    "contact": {
+        "phone": "+1-770-867-4999",
+        "servicePhone": "800316418"
+    },
+    "birthday": "1938-19-07",
+    "ip": "5.58.250.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Rather report life forward. How well price seek decade get. Task middle old take real how goal group.\nActivity activity popular. Develop read herself. Just gas mention last baby.",
+        "bio": "Cover relate medical hour trade purpose show of. Forward produce find class lawyer issue. Key still laugh hospital chance."
+    },
+    "apiKey": "b1e96fd0588f7cbab3213495866ced42f010f60509a890a0903f53716e430de7",
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
