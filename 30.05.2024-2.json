@@ -1,0 +1,26 @@
+{
+    "name": "Lee Jones",
+    "age": 59,
+    "address": {
+        "street": "Martinez Manor",
+        "city": "Jordanmouth",
+        "state": "Alaska",
+        "zip": "08196"
+    },
+    "contact": {
+        "phone": "(510)322-5157x08670",
+        "servicePhone": "800647876"
+    },
+    "birthday": "1966-26-05",
+    "ip": "106.231.84.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Leg hot father. Finish PM card throw while wait culture stock. Building avoid identify there effect note.\nQuestion fill serve under.",
+        "bio": "Above summer hour cup investment yourself responsibility. Government true meet whom energy play board."
+    },
+    "apiKey": "70a1f85c3a71dfaa2f0f0578c0fe07f99a960d43ef1e9f9dbd5341443413287b",
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
