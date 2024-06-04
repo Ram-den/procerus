@@ -1,0 +1,26 @@
+{
+    "name": "Stacey Robertson",
+    "age": 41,
+    "address": {
+        "street": "Robert Turnpike",
+        "city": "Haleside",
+        "state": "North Dakota",
+        "zip": "83701"
+    },
+    "contact": {
+        "phone": "001-446-535-1350",
+        "servicePhone": "800965778"
+    },
+    "birthday": "1984-10-09",
+    "ip": "197.115.110.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Young sort close goal win budget travel.\nCapital kind late along hard not. Firm group organization woman among.\nCamera within trouble many cover share your capital. Wish raise hospital.",
+        "bio": "Before design contain guess scientist believe. Leg film chance. Yard never red."
+    },
+    "apiKey": "857c1e11baeb8c2dfde8fd199ba82af3d584644496620bb9f2c4383bf8ca2daf",
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
