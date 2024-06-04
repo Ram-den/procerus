@@ -1,0 +1,26 @@
+{
+    "name": "Amanda Walter",
+    "age": 101,
+    "address": {
+        "street": "Matthew Falls",
+        "city": "Richardchester",
+        "state": "South Dakota",
+        "zip": "03432"
+    },
+    "contact": {
+        "phone": "984-538-0025",
+        "servicePhone": "800222030"
+    },
+    "birthday": "1924-29-07",
+    "ip": "137.165.110.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Use across fast teacher. Edge always adult region guess line discover laugh.\nMean husband cause add alone wrong single.",
+        "bio": "Not throw toward style speak. Own design someone performance. Analysis and you.\nContain writer conference short soldier full market camera. Present space ask number site management often force."
+    },
+    "apiKey": "7de4d1b8131292596eb7f572d2bab20ca8caabd5e0eefa0065d06637969758b7",
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
