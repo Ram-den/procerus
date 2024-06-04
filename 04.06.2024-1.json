@@ -1,0 +1,26 @@
+{
+    "name": "Annette Alvarez",
+    "age": 73,
+    "address": {
+        "street": "Morrison Vista",
+        "city": "Moralesport",
+        "state": "Colorado",
+        "zip": "51205"
+    },
+    "contact": {
+        "phone": "252.691.4329",
+        "servicePhone": "800966132"
+    },
+    "birthday": "1952-21-04",
+    "ip": "204.87.54.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Two why bag wall per address argue. Fish why then. End impact music.\nBig nearly season data fly yet. Whether say off design.",
+        "bio": "Decide maintain hand some. Grow responsibility of thousand make hard.\nThough issue listen campaign pull. Community common poor prevent.\nCan also small wonder similar here charge the."
+    },
+    "apiKey": "cc3cafdca03e717c9d45d35c707b2823bb0e2edf9d83784292ee453508faae38",
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
