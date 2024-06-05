@@ -1,0 +1,26 @@
+{
+    "name": "Ms. Rebecca Bowers",
+    "age": 21,
+    "address": {
+        "street": "Strickland Tunnel",
+        "city": "Terriville",
+        "state": "Nevada",
+        "zip": "03222"
+    },
+    "contact": {
+        "phone": "271.907.6009",
+        "servicePhone": "800102939"
+    },
+    "birthday": "2004-18-10",
+    "ip": "123.15.174.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular or enough yes. To continue hear situation first. No less situation recently.",
+        "bio": "Upon save among sort second heart professor. Different well available matter.\nLate body teach often the any woman. Finish investment year."
+    },
+    "apiKey": "15faf154ec49c56e322107d20834c6079bbbbff248dd0ea413d9fcf4134f76a9",
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
