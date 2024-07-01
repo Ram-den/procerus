@@ -1,0 +1,26 @@
+{
+    "name": "Timothy Nelson",
+    "age": 88,
+    "address": {
+        "street": "Karen Ville",
+        "city": "Nancyville",
+        "state": "New York",
+        "zip": "39471"
+    },
+    "contact": {
+        "phone": "325.325.9905",
+        "servicePhone": "800122705"
+    },
+    "birthday": "1937-04-08",
+    "ip": "78.93.236.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional anything such success bill everything. Thing wall lose foreign these.",
+        "bio": "Analysis animal gun responsibility. Recently yet campaign themselves pressure."
+    },
+    "apiKey": "e230cbe89bfbe0901fc58c4169f98c11cbe61a5db74ea1bb2259ef71586607de",
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
