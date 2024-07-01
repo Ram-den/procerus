@@ -1,0 +1,26 @@
+{
+    "name": "Sara Hester",
+    "age": 23,
+    "address": {
+        "street": "Brown Crossroad",
+        "city": "Port Lindsey",
+        "state": "Pennsylvania",
+        "zip": "25717"
+    },
+    "contact": {
+        "phone": "(449)202-7814",
+        "servicePhone": "800383518"
+    },
+    "birthday": "2002-21-03",
+    "ip": "176.116.254.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Street provide grow. Decision rest officer control case pull. Book care later team kid memory.",
+        "bio": "Himself soon century. Blue organization recognize look it however.\nLater account call film life time partner. Girl positive method goal surface source weight."
+    },
+    "apiKey": "26407f45920b8460d945e91f8088af60392f769a994f0f3a1a31e85662dbeaaa",
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
