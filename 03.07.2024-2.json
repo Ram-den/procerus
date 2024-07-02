@@ -1,0 +1,26 @@
+{
+    "name": "Mary Johnson",
+    "age": 82,
+    "address": {
+        "street": "Amy Street",
+        "city": "East Amy",
+        "state": "New Hampshire",
+        "zip": "05361"
+    },
+    "contact": {
+        "phone": "+1-439-972-3217x5040",
+        "servicePhone": "800036010"
+    },
+    "birthday": "1943-25-06",
+    "ip": "175.82.70.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Group how enough lead place TV. Well determine view station. Skin guess man prevent.\nDaughter shake usually million half medical data. Stand in agree wife grow much common both.",
+        "bio": "Small statement together financial kind out. Would imagine force.\nImpact prepare career court debate education pick. Nearly list ok lay. Any score scene firm us describe computer."
+    },
+    "apiKey": "e5b96420df23a8dbb6521ef96d08da6ae8388110b02c62f4feebcd192f209a55",
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
