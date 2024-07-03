@@ -1,0 +1,26 @@
+{
+    "name": "Michelle Thomas",
+    "age": 103,
+    "address": {
+        "street": "Gomez Rapids",
+        "city": "Kellymouth",
+        "state": "Washington",
+        "zip": "50164"
+    },
+    "contact": {
+        "phone": "689.527.7795",
+        "servicePhone": "800438358"
+    },
+    "birthday": "1922-17-06",
+    "ip": "84.76.21.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Well go around democratic pass main. Tough low response. Song choose piece mind outside camera.\nHere quality compare provide or including. Music factor office when matter plan against.",
+        "bio": "Minute bank official. Play that east if half member.\nDown check pattern it also these. Friend these sea finish range fund strong. Guess big group."
+    },
+    "apiKey": "a5c572cfd2a9409f74fcb79bfdc29d969c3942c69c90a4468c38c886688e5f02",
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
