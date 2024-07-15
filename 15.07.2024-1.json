@@ -1,0 +1,26 @@
+{
+    "name": "Elizabeth Gonzales",
+    "age": 5,
+    "address": {
+        "street": "Chung Causeway",
+        "city": "Kylieshire",
+        "state": "Minnesota",
+        "zip": "38989"
+    },
+    "contact": {
+        "phone": "(201)617-7220x20959",
+        "servicePhone": "800476847"
+    },
+    "birthday": "2020-21-03",
+    "ip": "109.93.123.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Who song cultural magazine believe us. Have together although traditional smile.\nDeal hair level stand.\nNews according become realize language how better. Tv most sure wrong.",
+        "bio": "Get when industry. Worker training impact she lay economy. Than station born yourself budget.\nAround girl perform window. As instead west article."
+    },
+    "apiKey": "4019ebd4e7b866b394a21b22aff2c86a9cb3f3464811ce003456ea223434e996",
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
