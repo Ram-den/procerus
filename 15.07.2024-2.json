@@ -1,0 +1,26 @@
+{
+    "name": "Reginald Bartlett",
+    "age": 11,
+    "address": {
+        "street": "Wallace Port",
+        "city": "Ritashire",
+        "state": "North Dakota",
+        "zip": "86370"
+    },
+    "contact": {
+        "phone": "372.714.4824x6171",
+        "servicePhone": "800440794"
+    },
+    "birthday": "2014-09-09",
+    "ip": "186.188.85.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Where break support brother control degree.\nStaff little admit artist design. By avoid help herself personal million.",
+        "bio": "Church poor foreign key visit bag pressure. Industry large nor adult. Team kitchen seven.\nMouth myself under trouble. Sort shoulder building building.\nLess miss rate at still room design."
+    },
+    "apiKey": "bd44aff3853c8669f3d78184366971f3c3d8b4ad714093e848c2a404f006e3a2",
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
