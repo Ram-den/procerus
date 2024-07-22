@@ -1,0 +1,26 @@
+{
+    "name": "Brandon Caldwell",
+    "age": 25,
+    "address": {
+        "street": "Gary Glen",
+        "city": "North Deanna",
+        "state": "West Virginia",
+        "zip": "44428"
+    },
+    "contact": {
+        "phone": "638.646.5086",
+        "servicePhone": "800047652"
+    },
+    "birthday": "2000-28-03",
+    "ip": "84.90.171.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Though away national major student lawyer. Environment hot carry law.",
+        "bio": "Issue design one candidate tree them investment well. Itself realize customer democratic security. Security standard environmental computer bad end skill. Seat when south."
+    },
+    "apiKey": "a8a15a15850d6a30c00d1f25f0964c6c47ab19cf54d5e68ddff9602ca8747f1e",
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
