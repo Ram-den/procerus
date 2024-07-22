@@ -1,0 +1,26 @@
+{
+    "name": "Latasha Daniels",
+    "age": 28,
+    "address": {
+        "street": "Ryan Port",
+        "city": "Oconnorburgh",
+        "state": "Rhode Island",
+        "zip": "77309"
+    },
+    "contact": {
+        "phone": "(670)572-0599",
+        "servicePhone": "800827562"
+    },
+    "birthday": "1997-12-03",
+    "ip": "131.246.162.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Yourself strong though role Democrat. Phone yet student.\nEnough grow despite last against vote across fall. Worry really within walk within.",
+        "bio": "Strategy probably scientist choice similar. American however back south film study.\nSit news identify room seat listen tree fire. Computer own space best forget least per able. Week than newspaper."
+    },
+    "apiKey": "6401500ff66c6a6a46bc69e0c334619159450b8f321468deb541638aede34dc1",
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
