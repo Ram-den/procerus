@@ -1,0 +1,26 @@
+{
+    "name": "Michael Meyer",
+    "age": 49,
+    "address": {
+        "street": "Bryant Heights",
+        "city": "Rodriguezfurt",
+        "state": "Wisconsin",
+        "zip": "68515"
+    },
+    "contact": {
+        "phone": "502.254.3977x6714",
+        "servicePhone": "800669754"
+    },
+    "birthday": "1976-17-10",
+    "ip": "152.166.61.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Gun above represent there wall couple and. Project history particular order.\nAlready local respond live popular bring cost.\nSound role he college foot machine. Position second catch care agree.",
+        "bio": "Decade your success organization happen onto risk. Low window break think hard talk. Side may among help."
+    },
+    "apiKey": "2bd9f5c13fb81ce100f03d525230f80a3973380b2e5579ab690e414649d083c2",
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
