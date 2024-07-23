@@ -1,0 +1,26 @@
+{
+    "name": "Amy Martinez",
+    "age": 61,
+    "address": {
+        "street": "Brandon Coves",
+        "city": "North Kimbury",
+        "state": "Massachusetts",
+        "zip": "07542"
+    },
+    "contact": {
+        "phone": "001-652-966-0483x177",
+        "servicePhone": "800158122"
+    },
+    "birthday": "1964-15-12",
+    "ip": "116.128.53.45",
+    "foo": "bar",
+    "profile": {
+        "about": "House student particular assume machine. Professor special training also. Same teacher financial knowledge.",
+        "bio": "Color when hotel window agent until. Me leave street price.\nResponse hundred cup or indicate leader candidate. Paper last leg foreign from art wish."
+    },
+    "apiKey": "00b1ee25e5781502f52c787087e15d81c8a1ad89178701c2fbc15bc2545c0ab5",
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
