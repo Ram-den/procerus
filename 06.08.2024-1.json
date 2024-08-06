@@ -1,0 +1,26 @@
+{
+    "name": "Alicia Adams",
+    "age": 1,
+    "address": {
+        "street": "William Cliff",
+        "city": "North Jasonhaven",
+        "state": "Arizona",
+        "zip": "13652"
+    },
+    "contact": {
+        "phone": "+1-240-766-3105x663",
+        "servicePhone": "800182592"
+    },
+    "birthday": "2024-02-07",
+    "ip": "107.226.6.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Let rich memory later. Knowledge plant not instead report memory skin. Give third daughter space evening.\nBeautiful as realize thing house company baby large. Bit medical question set.",
+        "bio": "Nearly often production hundred other. Social hospital establish. Fly office kind outside particularly main.\nSense strategy local prevent true."
+    },
+    "apiKey": "151f8d3967882dd88b8ab80f75b63a53c3787a95eec38380bd55c2f54c8f16d5",
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
