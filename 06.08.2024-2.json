@@ -1,0 +1,26 @@
+{
+    "name": "Felicia Harris",
+    "age": 64,
+    "address": {
+        "street": "Carter Creek",
+        "city": "East Whitneymouth",
+        "state": "Oklahoma",
+        "zip": "66514"
+    },
+    "contact": {
+        "phone": "(335)927-5763x511",
+        "servicePhone": "800050484"
+    },
+    "birthday": "1961-22-03",
+    "ip": "45.129.57.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Arrive edge institution sense thought talk thought vote. Resource change agree brother interest far admit.",
+        "bio": "Defense job responsibility especially develop receive. Forget education across amount red above. Paper stage development its share."
+    },
+    "apiKey": "204f235fac8049ecac8c68b859f5a5764eeaef74a13ac6f898bca3c3c01d37ae",
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
