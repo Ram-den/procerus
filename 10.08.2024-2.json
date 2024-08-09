@@ -1,0 +1,26 @@
+{
+    "name": "Shannon Bailey",
+    "age": 25,
+    "address": {
+        "street": "Castaneda Ports",
+        "city": "Walkerstad",
+        "state": "Oregon",
+        "zip": "09149"
+    },
+    "contact": {
+        "phone": "503-321-0229x00964",
+        "servicePhone": "800143843"
+    },
+    "birthday": "2000-24-09",
+    "ip": "215.89.248.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Rise memory let even TV. Fear talk knowledge story. Another smile process military book.\nResource forget to whatever. Dream see job visit among serve art. Both family local role.",
+        "bio": "One quite arrive. Matter happen trip share life stop everything. Significant cover attorney."
+    },
+    "apiKey": "0e0729556b88efa94c299709da6d81a06e60322fb77df49b3635b8c760ea5074",
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
