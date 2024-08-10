@@ -1,0 +1,26 @@
+{
+    "name": "Bradley Wells",
+    "age": 96,
+    "address": {
+        "street": "Lindsey Drive",
+        "city": "South Michelleborough",
+        "state": "California",
+        "zip": "57189"
+    },
+    "contact": {
+        "phone": "875.580.8268x5108",
+        "servicePhone": "800923564"
+    },
+    "birthday": "1929-24-11",
+    "ip": "160.213.1.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Same enjoy source people fine. About prepare idea above test safe take.\nSpring pretty growth. Old significant hair history bill.",
+        "bio": "Seem partner police debate physical different probably. Account charge may. Already game record up."
+    },
+    "apiKey": "89851ce25b7fee3763c3dd3e4d1ee395b1b28ccf97bccdacc2dd11483cf67ab9",
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
