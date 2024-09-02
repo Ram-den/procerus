@@ -1,0 +1,26 @@
+{
+    "name": "Joshua Richardson",
+    "age": 78,
+    "address": {
+        "street": "Mark Lane",
+        "city": "East Colemouth",
+        "state": "Wisconsin",
+        "zip": "01858"
+    },
+    "contact": {
+        "phone": "367-219-7175x726",
+        "servicePhone": "800238142"
+    },
+    "birthday": "1947-11-06",
+    "ip": "8.245.17.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Item pull public international consumer rise. Billion former real seven morning exactly service.",
+        "bio": "Mr fear significant gas certainly. White program forward time recently. Hope into stock call national person defense understand. Front find stock instead add movement eat."
+    },
+    "apiKey": "21557d56732d706c6190bee4188028c314754e630c1faf13ce30b332502aa319",
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
