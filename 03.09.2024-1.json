@@ -1,0 +1,26 @@
+{
+    "name": "Christopher Brown",
+    "age": 62,
+    "address": {
+        "street": "Estrada Mountain",
+        "city": "Ashleyport",
+        "state": "Iowa",
+        "zip": "26537"
+    },
+    "contact": {
+        "phone": "+1-535-896-4713x552",
+        "servicePhone": "800916037"
+    },
+    "birthday": "1963-11-11",
+    "ip": "169.183.79.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer century music I. Important appear my produce. Reduce only rest.\nFall fly sport rule actually. Police throw good court represent break tell rate. Price fund month education none talk become.",
+        "bio": "Eat get will son technology investment page. Eat thus relate need."
+    },
+    "apiKey": "1abbd51d3cc04bbffa1ebffa04a3b8267a45382a0b06fc1d3224631afa2bbf8b",
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
