@@ -1,0 +1,26 @@
+{
+    "name": "Lauren Robinson",
+    "age": 68,
+    "address": {
+        "street": "Angela Creek",
+        "city": "South Danielfurt",
+        "state": "Arkansas",
+        "zip": "66834"
+    },
+    "contact": {
+        "phone": "001-687-259-4914",
+        "servicePhone": "800164363"
+    },
+    "birthday": "1957-11-05",
+    "ip": "61.171.71.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Thus bank who hear trip water skill if. Machine as important right that skin. Human few statement live.",
+        "bio": "Similar mother whether. Pretty until apply economic also meeting article. Believe situation share interest agent join know admit."
+    },
+    "apiKey": "29731c2be7255db66eeb4b650c26e446682d7fc9a6802bbe7ec840373eb24666",
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
