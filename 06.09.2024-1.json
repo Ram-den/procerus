@@ -1,0 +1,26 @@
+{
+    "name": "Lauren Acosta",
+    "age": 24,
+    "address": {
+        "street": "Paul Garden",
+        "city": "Lake Jason",
+        "state": "Delaware",
+        "zip": "74637"
+    },
+    "contact": {
+        "phone": "729.478.4925",
+        "servicePhone": "800847156"
+    },
+    "birthday": "2001-28-08",
+    "ip": "106.119.51.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Add article represent yet. Cold pressure officer prove blue. Season cost would score subject.",
+        "bio": "Person doctor believe me account husband city hit.\nFoot sea by can tend. Operation full production impact trial. Including find professional company return surface worry."
+    },
+    "apiKey": "4ccd8dc1ac8f994b62e539ea7a1a59b3db192d3de864fcefec415d7aca167ee9",
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
