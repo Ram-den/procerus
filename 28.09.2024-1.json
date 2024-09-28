@@ -1,0 +1,26 @@
+{
+    "name": "Ivan Hayes",
+    "age": 43,
+    "address": {
+        "street": "Amanda Lights",
+        "city": "Lake Susanfurt",
+        "state": "Massachusetts",
+        "zip": "18742"
+    },
+    "contact": {
+        "phone": "001-761-506-7934x3246",
+        "servicePhone": "800287184"
+    },
+    "birthday": "1982-21-11",
+    "ip": "211.183.103.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Him somebody drive think drug like. But stop at serve charge head follow nothing.",
+        "bio": "Contain just another religious discuss different former Mr. Our near talk story agency add."
+    },
+    "apiKey": "527b7d42ca1fa931a8b27d629df51b8eb65ebb7bd815a42f444a03a33d6c9c83",
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
