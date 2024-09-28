@@ -1,0 +1,26 @@
+{
+    "name": "Mary Castro",
+    "age": 30,
+    "address": {
+        "street": "Mary Locks",
+        "city": "Heatherburgh",
+        "state": "Indiana",
+        "zip": "32296"
+    },
+    "contact": {
+        "phone": "259.981.5167",
+        "servicePhone": "800801903"
+    },
+    "birthday": "1995-25-03",
+    "ip": "35.101.5.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Hour yes design plan well dog key defense. His rich interesting rate table drive last. Likely place receive notice.",
+        "bio": "Over wear audience same. Marriage top him up yourself. Factor politics add word indeed anything no worker.\nResponsibility everything tough growth foreign property. State wide kitchen bit century my."
+    },
+    "apiKey": "cd6d45c3fa2c5ca8f9e4e6e5d357bf10c3480e1855cc2812edf065cd1e142218",
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
