@@ -1,0 +1,26 @@
+{
+    "name": "Stacy Brennan",
+    "age": 4,
+    "address": {
+        "street": "Kristie Plaza",
+        "city": "Andrewmouth",
+        "state": "Arizona",
+        "zip": "42776"
+    },
+    "contact": {
+        "phone": "+1-741-317-9708x4557",
+        "servicePhone": "800913602"
+    },
+    "birthday": "2021-04-06",
+    "ip": "65.94.71.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Despite theory everything under. Yeah main member truth kid wonder pass. Clearly around set see.\nEntire miss exist side while allow which. Same mind fund manage moment win.",
+        "bio": "Maintain even election movie. Arm no only most rather hot put suddenly. Stock glass control hair.\nNear public around season key nothing. Chair per develop since far and."
+    },
+    "apiKey": "58392847ad494f8da21230e3da2efb3cb11ba4efbb1424bd10ebd338a5494055",
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
