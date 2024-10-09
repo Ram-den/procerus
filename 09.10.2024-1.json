@@ -1,0 +1,26 @@
+{
+    "name": "Blake Cox",
+    "age": 79,
+    "address": {
+        "street": "Acosta Fort",
+        "city": "Gonzalesfurt",
+        "state": "Missouri",
+        "zip": "83477"
+    },
+    "contact": {
+        "phone": "469.443.4268x37345",
+        "servicePhone": "800913128"
+    },
+    "birthday": "1946-22-07",
+    "ip": "135.83.18.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice have financial man. Court effort forget coach available industry.\nTalk area my inside. Career purpose continue.",
+        "bio": "New say blood course art idea radio. Nearly bad tree. Mouth learn response require.\nPresident brother something any wide Congress him. Outside charge if space month science behavior."
+    },
+    "apiKey": "883b72ee572827af90429c9a7d0b0790790a270b33cf527718b1c6aa1beaebc8",
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
