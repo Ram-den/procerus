@@ -1,0 +1,26 @@
+{
+    "name": "Ryan Koch",
+    "age": 92,
+    "address": {
+        "street": "Rebecca Streets",
+        "city": "Port Maxwell",
+        "state": "New Jersey",
+        "zip": "85818"
+    },
+    "contact": {
+        "phone": "227-294-6072",
+        "servicePhone": "800063744"
+    },
+    "birthday": "1933-02-09",
+    "ip": "180.141.189.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Line option situation company production read. Fall reveal development size. Ask sea it address film see.",
+        "bio": "Usually movement play state around. Direction we its agency. Card his lay get.\nTeach us chair seem scene cell recently mouth. Stage instead two great.\nReflect the hold then. Perform and high."
+    },
+    "apiKey": "4cb7ad666d94a0f5fcc9461775ba3fc9e7012a010a11135022f88b8cf5276326",
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
