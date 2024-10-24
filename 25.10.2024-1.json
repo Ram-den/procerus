@@ -1,0 +1,26 @@
+{
+    "name": "Amber Gonzales",
+    "age": 31,
+    "address": {
+        "street": "Stacy Fords",
+        "city": "South Sharonstad",
+        "state": "Hawaii",
+        "zip": "17079"
+    },
+    "contact": {
+        "phone": "(443)310-2745x832",
+        "servicePhone": "800116230"
+    },
+    "birthday": "1994-26-08",
+    "ip": "26.88.62.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Car as firm. Gun matter plan particular start.\nCut cup whatever operation. Debate world style item better teacher. Identify season capital accept future inside citizen.",
+        "bio": "Sure community group option sure.\nMagazine deal college guy reason compare particularly page. Anything our option economy hot. I indeed other stage."
+    },
+    "apiKey": "59d0dccf926f12f4dca52d1f88b35481d7e35b3690b1d0601460687050a3bb57",
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
