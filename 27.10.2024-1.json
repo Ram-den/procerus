@@ -1,0 +1,26 @@
+{
+    "name": "Lisa Morgan",
+    "age": 102,
+    "address": {
+        "street": "Powell Lodge",
+        "city": "South Lisaland",
+        "state": "Wisconsin",
+        "zip": "69032"
+    },
+    "contact": {
+        "phone": "318-612-9861x13082",
+        "servicePhone": "800879817"
+    },
+    "birthday": "1923-30-11",
+    "ip": "37.193.161.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Nature over consumer. Say nice detail serve black.\nStand program relationship interview election they.\nComputer blood well. Air resource president public. Lead real read say color.",
+        "bio": "Let develop third be. Draw get newspaper town model draw list. Doctor town relationship develop.\nFoot close top ground. Bit health window unit. Process nation protect drug."
+    },
+    "apiKey": "4d6c8d299f172e33d69f099956d7f81f7b06ab025ec3d7eeef9553902712e46f",
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
