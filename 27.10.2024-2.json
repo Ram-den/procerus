@@ -1,0 +1,26 @@
+{
+    "name": "Danielle Escobar",
+    "age": 42,
+    "address": {
+        "street": "Lowe Place",
+        "city": "North Ashley",
+        "state": "Idaho",
+        "zip": "58739"
+    },
+    "contact": {
+        "phone": "452.342.2135x026",
+        "servicePhone": "800934784"
+    },
+    "birthday": "1983-25-09",
+    "ip": "179.245.194.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Professor argue language sound. Marriage alone they article. Student conference rather science.\nOthers threat recently. Miss mean would evidence.",
+        "bio": "Big government strong. Thousand challenge Congress science stage.\nSee education others effect bank. Not on part often it collection. Really above do serve future."
+    },
+    "apiKey": "b92c13d40c0162f3364639a3ca0a677e6d59f9f8d1bd635017d364321b46a442",
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
