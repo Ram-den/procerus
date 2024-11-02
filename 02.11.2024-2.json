@@ -1,0 +1,26 @@
+{
+    "name": "John Campbell",
+    "age": 115,
+    "address": {
+        "street": "Martinez Curve",
+        "city": "East Austin",
+        "state": "Indiana",
+        "zip": "53302"
+    },
+    "contact": {
+        "phone": "(289)671-1816x9390",
+        "servicePhone": "800420435"
+    },
+    "birthday": "1910-03-12",
+    "ip": "120.79.124.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Ahead here health detail. Group health create eat individual ask. Indeed machine mean party.\nHelp federal sure. North difference next hotel east. Authority however page picture other example.",
+        "bio": "Minute close treat arm hospital later kind. Tonight finish senior north purpose college. Order floor five thing part item tend small."
+    },
+    "apiKey": "a4ea7c5c7af0a4b4756e0b2cf694d7e60f37f73263377a03f83735ac87d9c78d",
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
