@@ -1,0 +1,26 @@
+{
+    "name": "Sheila Estes",
+    "age": 50,
+    "address": {
+        "street": "Dorothy Lodge",
+        "city": "West Aaron",
+        "state": "North Carolina",
+        "zip": "81784"
+    },
+    "contact": {
+        "phone": "+1-326-342-9607x466",
+        "servicePhone": "800696866"
+    },
+    "birthday": "1975-25-06",
+    "ip": "213.167.79.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Reveal car tonight bad certain though.\nChair particularly price personal. Shoulder cause much order TV fact. Trial bill audience hot fund also.",
+        "bio": "Throughout mean service picture. Real risk when president watch south. Ever of air. Minute list senior step own."
+    },
+    "apiKey": "6303f92827c35bc92d689eed21edb2d3f6a0e8889025351e7de8a0cbb11ded38",
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
