@@ -1,0 +1,26 @@
+{
+    "name": "Shawn Cherry",
+    "age": 15,
+    "address": {
+        "street": "Jennifer Grove",
+        "city": "West Davidton",
+        "state": "Minnesota",
+        "zip": "48900"
+    },
+    "contact": {
+        "phone": "699.639.8449",
+        "servicePhone": "800989548"
+    },
+    "birthday": "2010-25-01",
+    "ip": "29.188.201.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen herself education sell western red establish foreign. Hope remember add hour. Mrs north couple board form. Appear glass experience.",
+        "bio": "Surface watch hold might rather. Hospital economic grow eat. Simple news main.\nCreate amount down simple benefit southern economy sport. Task include top research. Again stage just sister."
+    },
+    "apiKey": "fbae430635f6f06881c7040c225cf246ca5424c66e2a906da1413bf1e32a964d",
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
