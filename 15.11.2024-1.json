@@ -1,0 +1,26 @@
+{
+    "name": "Brian Delgado",
+    "age": 54,
+    "address": {
+        "street": "Hughes Avenue",
+        "city": "South Taylorburgh",
+        "state": "Washington",
+        "zip": "66822"
+    },
+    "contact": {
+        "phone": "588-512-5332x28622",
+        "servicePhone": "800390608"
+    },
+    "birthday": "1971-26-01",
+    "ip": "51.16.2.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Offer sure right weight national real behind. Meeting increase third before military.\nPossible court voice moment class certainly sport. There vote friend main language partner place air.",
+        "bio": "Admit her than. Charge base social window."
+    },
+    "apiKey": "fcbfe013b50d93472024fc2e20e0b54a750c0a0e48db9a563f5e719328877942",
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
