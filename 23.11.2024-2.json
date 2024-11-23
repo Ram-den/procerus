@@ -1,0 +1,26 @@
+{
+    "name": "James Bates",
+    "age": 58,
+    "address": {
+        "street": "Craig Freeway",
+        "city": "Lake Larryview",
+        "state": "Alaska",
+        "zip": "50252"
+    },
+    "contact": {
+        "phone": "001-239-364-0062",
+        "servicePhone": "800612227"
+    },
+    "birthday": "1967-01-09",
+    "ip": "90.10.204.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Main beyond every. Business collection arrive source hotel hundred right.\nImportant itself very office letter reach call. Certainly truth know explain develop itself.",
+        "bio": "Move morning pull. Off action which think less past. Few under various character away relate prevent.\nHome often alone its difference base consumer. Offer bank need appear."
+    },
+    "apiKey": "0a0c9bbd2466646e9ebb0e706bc9aa52c5e87b4da097c6bfc68629599e7df694",
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
