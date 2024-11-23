@@ -1,0 +1,26 @@
+{
+    "name": "Caitlyn Macias",
+    "age": 67,
+    "address": {
+        "street": "Thomas Crescent",
+        "city": "Danielfort",
+        "state": "South Carolina",
+        "zip": "64216"
+    },
+    "contact": {
+        "phone": "+1-736-211-4374",
+        "servicePhone": "800975758"
+    },
+    "birthday": "1958-21-07",
+    "ip": "41.24.70.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Huge five surface. Loss director rock generation drug. Author director field stand.\nClose goal tend fly role lot challenge top. Son financial mind choose yeah stop pass.",
+        "bio": "Bit investment group above recent election ask.\nPick more mouth make authority number. International never evening response real majority produce."
+    },
+    "apiKey": "f41b5ca1b5c277595590872118ff70da1da8c70d3c83de3820a43b610b3dc908",
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
