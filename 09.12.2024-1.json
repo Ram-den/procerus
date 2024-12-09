@@ -1,0 +1,26 @@
+{
+    "name": "Heather Rodriguez",
+    "age": 4,
+    "address": {
+        "street": "Jonathan Drive",
+        "city": "Brandonchester",
+        "state": "New Jersey",
+        "zip": "37959"
+    },
+    "contact": {
+        "phone": "9606586485",
+        "servicePhone": "800342714"
+    },
+    "birthday": "2021-07-07",
+    "ip": "166.76.74.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Social class effort we. Book so community occur. Note pattern agreement although however brother.",
+        "bio": "Maintain task memory clearly draw center professional sell. Detail exactly hard different admit.\nDrop past soldier fish about radio hear. Respond road meet after them."
+    },
+    "apiKey": "93f05b7a7439ee0a0d66d97374e922eaafbc9ae1ec2a9786c37c5da951077030",
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
