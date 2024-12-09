@@ -1,0 +1,26 @@
+{
+    "name": "Mark Rose",
+    "age": 35,
+    "address": {
+        "street": "Griffin Fort",
+        "city": "Port Cristina",
+        "state": "Wyoming",
+        "zip": "37544"
+    },
+    "contact": {
+        "phone": "+1-791-682-9646",
+        "servicePhone": "800280961"
+    },
+    "birthday": "1990-22-04",
+    "ip": "135.203.132.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Leader everything management all unit over whom song. Source laugh kid senior budget surface. Involve truth move change will whole.",
+        "bio": "Growth focus sound. Home generation hospital leg street set result.\nAssume popular common art guess piece husband. Technology space have similar nature particularly."
+    },
+    "apiKey": "03234f11f1bc559d780d9427e3df1162d0e3ae4d76320f64e7ee8c28435b8472",
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
