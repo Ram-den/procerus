@@ -1,0 +1,26 @@
+{
+    "name": "Jose Bradley",
+    "age": 44,
+    "address": {
+        "street": "Watts Mountain",
+        "city": "New Hunter",
+        "state": "Illinois",
+        "zip": "94041"
+    },
+    "contact": {
+        "phone": "318-637-4836x3826",
+        "servicePhone": "800147444"
+    },
+    "birthday": "1981-07-08",
+    "ip": "24.19.214.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Save strong major everybody. Unit give much human remain. Opportunity according gun official approach.\nPick find new compare first on. Down speech huge behavior voice soldier before fact.",
+        "bio": "Chance cell thus hair. Foot physical themselves evidence.\nNation woman help far now sign. Authority management still else. American place more to."
+    },
+    "apiKey": "c0d6e4677edf69293e397dc70516f99017bb47e38408b334ceffbe4d04a99204",
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
