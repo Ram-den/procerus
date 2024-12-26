@@ -1,0 +1,26 @@
+{
+    "name": "Kathleen Ramos",
+    "age": 81,
+    "address": {
+        "street": "Mitchell Garden",
+        "city": "Port Thomasberg",
+        "state": "Rhode Island",
+        "zip": "76996"
+    },
+    "contact": {
+        "phone": "+1-218-615-3229x4793",
+        "servicePhone": "800426440"
+    },
+    "birthday": "1944-18-04",
+    "ip": "214.51.124.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Music present thought and along. Thus high become professional deep world court off. Always suddenly wide action military address project sense.",
+        "bio": "Near expect final. Rich group allow sound minute positive hard. Lot trial per marriage soldier our.\nDiscussion ever relationship city under worker identify long. Tend name good group."
+    },
+    "apiKey": "f07255d95174eb3e0a4cef8f75f14cbe3385ab904973c4e79a12569975a16219",
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
